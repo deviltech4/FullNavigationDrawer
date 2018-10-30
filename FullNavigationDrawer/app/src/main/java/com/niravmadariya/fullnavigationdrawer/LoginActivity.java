@@ -23,8 +23,8 @@ public class LoginActivity extends AppCompatActivity {
         btn2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                /*Intent i = new Intent(getApplicationContext(),SignupActivity.class);
-                startActivity(i);*/
+                Intent i = new Intent(getApplicationContext(),SignupActivity.class);
+                startActivity(i);
                 Toast.makeText(getApplicationContext(), "Sign Up", Toast.LENGTH_SHORT).show();
             }
         });
