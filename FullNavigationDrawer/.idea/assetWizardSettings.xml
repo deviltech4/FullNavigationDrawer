@@ -19,8 +19,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\NiravMadariya\Downloads\Code\Icons\baseline-lock-black-24\2x\baseline_lock_black_24dp.png" />
-                                      <entry key="outputName" value="ic_lock" />
+                                      <entry key="imageAsset" value="C:\Users\NiravMadariya\Downloads\Code\Icons\baseline-phone-black-24\2x\baseline_phone_black_24dp.png" />
+                                      <entry key="outputName" value="ic_phone" />
                                     </map>
                                   </option>
                                 </PersistentState>
